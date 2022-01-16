@@ -75,3 +75,16 @@
 <img src="https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white">
 <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  
+<br>
+<br>
+  
+### 🚀 Contato
+  
+<a href="https://br.linkedin.com/in/gustavogalli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+</a> <a href="mailto:gustavosgalli@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+</a> <a href="https://wa.me/5511945113393/text=Oi!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+</a> 
