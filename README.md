@@ -7,3 +7,11 @@
 <a href="https://wa.me/5511945113393?text=Oi!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
   <img style="height: 30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png">
 </a>
+
+<br>
+<br>
+
+* Formado em **Administração**
+* Cursando **Análise e Desenvolvimento de Sistemas**
+* **Inglês** fluente
+* Experiência profissional nas áreas de **tecnologia**, projetos, administrativa e Customer Service
