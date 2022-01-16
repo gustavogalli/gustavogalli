@@ -72,6 +72,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a> <a href="mailto:gustavosgalli@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
-</a> <a href="https://wa.me/5511945113393/text=Oi!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
+</a> <a href="https://wa.me/5511945113393?text=Oi!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a> 
