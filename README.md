@@ -20,8 +20,8 @@
 
 <div>
   <a href="https://github.com/gustavogalli">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavogalli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogalli&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavogalli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogalli&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <br>
