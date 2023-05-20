@@ -12,12 +12,10 @@
 
 <br>
 <br>
-<br>
 
-* Formado em **Administração**
-* Cursando **Análise e Desenvolvimento de Sistemas**
+* **Desenvolvedor full stack** com cerca de um ano e meio de experiência (**Angular** e **Spring Boot**)
+* Formado em **Administração** e no último semestre de **Análise e Desenvolvimento de Sistemas**
 * **Inglês** fluente
-* Experiência profissional nas áreas de **tecnologia**, projetos, administrativa e Customer Service
 
 <br>
 <br>
@@ -29,6 +27,15 @@
 </div>
 
 <br>
+<br>
+• Angular, Spring Boot <br>
+• HTML, CSS, JavaScript, TypeScript, Bootstrap <br>
+• Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST <br>
+• SQL Server, MySQL, H2 Database, DBeaver <br>
+• SonarQube, Jenkins <br>
+• Git, GitHub, Git flow <br>
+• Scrum, Kanban, Intellij, Eclipse, Jira, Notion <br>
+• Linux <br>
 <br>
 <br>
   
@@ -44,8 +51,9 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 -->
   
+<!--
 <img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> <img style="height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /> <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  
+-->
 <!--
 ##### Back-end
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -81,7 +89,6 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 -->
   
-<br>
 
 <!--
 ### 🚀 Contato
