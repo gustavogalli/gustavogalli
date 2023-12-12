@@ -13,8 +13,8 @@
 <br>
 <br>
 
-* **Desenvolvedor full stack** com cerca de um ano e meio de experiência (**Angular** e **Spring Boot**)
-* Formado em **Administração** e no último semestre de **Análise e Desenvolvimento de Sistemas**
+* **Desenvolvedor full stack** com dois anos de experiência (**Angular** e **Spring Boot**)
+* Formado em **Administração** e **Análise e Desenvolvimento de Sistemas**
 * **Inglês** fluente
 
 <br>
