@@ -15,7 +15,7 @@
 
 * **Desenvolvedor full stack** com dois anos de experiência (**Angular** e **Spring Boot**)
 * Formado em **Administração** e **Análise e Desenvolvimento de Sistemas**
-* **Inglês** fluente
+* **Inglês** C1.3
 
 <br>
 <br>
@@ -28,14 +28,17 @@
 
 <br>
 <br>
-• Angular, Spring Boot <br>
-• HTML, CSS, JavaScript, TypeScript, Bootstrap <br>
-• Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST <br>
-• SQL Server, MySQL, H2 Database, DBeaver <br>
-• SonarQube, Jenkins <br>
-• Git, GitHub, Git flow <br>
-• Scrum, Kanban, Intellij, Eclipse, Jira, Notion <br>
-• Linux <br>
+ Angular, Spring Boot
+• HTML, CSS, JavaScript, TypeScript, Bootstrap
+• Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST
+• SQL Server, MySQL, H2 Database, DBeaver
+• Microsserviços
+• SonarQube, Jenkins
+• Git, GitHub, Git flow
+• Scrum, Kanban, Intellij, Eclipse, Jira, Notion
+• Linux
+• Python
+<br>
 <br>
 <br>
   
