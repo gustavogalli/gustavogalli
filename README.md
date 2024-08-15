@@ -28,15 +28,15 @@
 
 <br>
 <br>
-• Angular, Spring Boot
-• HTML, CSS, JavaScript, TypeScript, Bootstrap
-• Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST
-• SQL Server, Postgres, MySQL, H2 Database, DBeaver
-• Microsserviços
-• SonarQube, Jenkins, StarTeam
-• Git, GitHub, Git flow, BitBucket
-• Scrum, Kanban, Intellij, Eclipse, Jira, Notion, Bubble
-• Linux
+• Angular, Spring Boot<br>
+• HTML, CSS, JavaScript, TypeScript, Bootstrap<br>
+• Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST<br>
+• SQL Server, Postgres, MySQL, H2 Database, DBeaver<br>
+• Microsserviços<br>
+• SonarQube, Jenkins, StarTeam<br>
+• Git, GitHub, Git flow, BitBucket<br>
+• Scrum, Kanban, Intellij, Eclipse, Jira, Notion, Bubble<br>
+• Linux<br>
 • Python
 <br>
 <br>
