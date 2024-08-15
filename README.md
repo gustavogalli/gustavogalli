@@ -13,9 +13,9 @@
 <br>
 <br>
 
-* **Desenvolvedor full stack** com dois anos de experiência (**Angular** e **Spring Boot**)
+* **Desenvolvedor full stack** com três anos de experiência (**Angular** e **Spring Boot**)
 * Formado em **Administração** e **Análise e Desenvolvimento de Sistemas**
-* **Inglês** C1.3
+* **Inglês** C1.2
 
 <br>
 <br>
@@ -28,14 +28,14 @@
 
 <br>
 <br>
- Angular, Spring Boot
+• Angular, Spring Boot
 • HTML, CSS, JavaScript, TypeScript, Bootstrap
 • Java, JUnit 5, Mockito, TDD, JPA Hibernate, API REST
-• SQL Server, MySQL, H2 Database, DBeaver
+• SQL Server, Postgres, MySQL, H2 Database, DBeaver
 • Microsserviços
-• SonarQube, Jenkins
-• Git, GitHub, Git flow
-• Scrum, Kanban, Intellij, Eclipse, Jira, Notion
+• SonarQube, Jenkins, StarTeam
+• Git, GitHub, Git flow, BitBucket
+• Scrum, Kanban, Intellij, Eclipse, Jira, Notion, Bubble
 • Linux
 • Python
 <br>
